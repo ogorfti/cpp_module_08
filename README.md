@@ -7,4 +7,4 @@
 </div>
 
 ## 🗣️ About
->Exploring C++ fundamentals: Exploring C++ fundamentals: Templated containers, iterators, algorithms
+>Exploring C++ fundamentals: Templated containers, iterators, algorithms
