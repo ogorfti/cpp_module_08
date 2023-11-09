@@ -6,7 +6,7 @@
 /*   By: ogorfti <ogorfti@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/29 20:53:37 by ogorfti           #+#    #+#             */
-/*   Updated: 2023/11/02 10:16:29 by ogorfti          ###   ########.fr       */
+/*   Updated: 2023/11/09 10:16:54 by ogorfti          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,8 +64,9 @@ void	test1()
 
 int main()
 {
+	std::cout << "<-- stack -->" << '\n';
 	test0();
-	std::cout << "---" << '\n';
+	std::cout << "<-- list -->" << '\n';
 	test1();
 	return (0);
 }
